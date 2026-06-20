@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
-<h3 align="center">🚀 3rd Year Engineering Student | MERN Developer | DSA & Cyber Security Enthusiast</h3>
+<h3 align="center">🚀 4rd Year Engineering Student | MERN Developer | DSA & Cyber Security Enthusiast</h3>
 
 - 🌱 I’m currently learning **Backend and Dsa**
 
