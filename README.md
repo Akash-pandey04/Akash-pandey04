@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
-<h3 align="center">🚀 4rd Year Engineering Student | MERN Developer | DSA & Cyber Security Enthusiast</h3>
+<h3 align="center">🚀 final Year Engineering Student | MERN Developer | DSA & Cyber Security Enthusiast</h3>
 
 - 🌱 I’m currently learning **Backend and Dsa**
 
-- 💬 Ask me about **Hi, I'm Akash Pandey 👋 🎓 I'm a 3rd-year Engineering student at G H Raisoni College of Engineering and Management. 💻 Passionate about technology, web development, and problem-solving. 🚀 Currently building my skills in Frontend Development, React, and Data Structures & Algorithms (DSA).**
+- 💬 Ask me about **Hi, I'm Akash Pandey 👋 🎓 I'm a final-year Engineering student at G H Raisoni College of Engineering and Management. 💻 Passionate about technology, web development, and problem-solving. 🚀 Currently building my skills in  Development, React, and Data Structures & Algorithms (DSA).**
 
 - 📫 How to reach me **pandeyaakash797238@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/akash-pandey-3988802a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/akash-pandey-3988802a0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/akash-pandey-3988802a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/akash-pandey-3988802a0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akashpandey04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashpandey04" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/440008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="440008" height="30" width="40" /></a>
 </p>
